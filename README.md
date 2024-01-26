@@ -156,5 +156,5 @@ Follow the steps below to run your container on Cloud Run:
 
 
 ### Put URL to both container in the README.md file below
-- ExpressJS: https://.....
-- Springboot: https://....
+- ExpressJS: https://hellojs-dt2ah6dtaq-uc.a.run.app/
+- Springboot: https://hellospring-dt2ah6dtaq-uc.a.run.app/hello
